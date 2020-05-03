@@ -1,2 +1,0 @@
-class MicropotsController < ApplicationController
-end
